@@ -1,0 +1,1 @@
+INSERT INTO song VALUES('Master of Puppets', 'Metallica');
